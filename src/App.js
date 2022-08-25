@@ -33,6 +33,9 @@ class App extends React.Component {
             <a href="https://github.com/ProjectFocal">
               <div className="cta"> Visit our GitHub</div>
             </a>
+            <a href="https://www.paypal.com/donate/?business=QG3CH6Q2L7CKE&no_recurring=0&item_name=Raise+money+for+the+development+of+Project+Focal.&currency_code=CAD">
+              <div className="cta"> Donate Here!</div>
+            </a>
           </div>
         </div>
         <div className="footer">
